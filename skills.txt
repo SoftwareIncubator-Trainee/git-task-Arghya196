@@ -1,0 +1,9 @@
+SKILLS:
+Language: C and Python
+Web: HTML CSS 
+DSA:Basics
+
+HOBBIES:
+Dancing
+Reading books
+Exploring new art forms
